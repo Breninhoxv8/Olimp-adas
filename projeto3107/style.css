@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+.perfil{
+    border-radius: 50%;
+}
+.w{
+
+text-align: center;
+
+}
+/* formatar a imagem com cantos arredondados  */
+img{
+    border-radius: 50%;
+
+
+
+}
+
+/* formartar titulo com ID */
+#cv{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(255, 127, 240);
+    font-size: 35px;
+}
